@@ -56,7 +56,7 @@ In these missions you have to survive 10 waves "without" any dinos nor weapons. 
 
 ## <u> Checkpoint missions </u>
 
-In these missions you have to progress
+In these missions, you have to progress 
 
 ## <u> Escort missions </u>
 
@@ -119,3 +119,7 @@ The following parts will be separated in biomes. At the end of this Genesis Part
 ### The Rhino 500
 
 ### Repair the Arctic Glitches!
+
+# ..: Miscellaneous :..
+
+## Building a Bubble Dino
